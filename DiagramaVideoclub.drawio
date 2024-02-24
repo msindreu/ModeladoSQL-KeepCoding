@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T11:22:43.479Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wzec0FicWN-NLLJf-wJj" version="23.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-24T12:07:09.103Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gcvvCSNfG8IFxt5jVIJe" version="23.1.5" type="device">
   <diagram name="Pàgina-1" id="VEwpVab4JRkUdaS47jMu">
     <mxGraphModel dx="1674" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeGn-nemc2a0jFKcVjTs-93" value="id_película NUMERIC NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="WeGn-nemc2a0jFKcVjTs-91">
+        <mxCell id="WeGn-nemc2a0jFKcVjTs-93" value="id_alquiler NUMERIC NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="WeGn-nemc2a0jFKcVjTs-91">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -308,7 +308,7 @@
             <mxPoint x="338.02" y="131.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WeGn-nemc2a0jFKcVjTs-116" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.011;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WeGn-nemc2a0jFKcVjTs-91" target="WeGn-nemc2a0jFKcVjTs-52">
+        <mxCell id="WeGn-nemc2a0jFKcVjTs-116" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.011;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.022;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WeGn-nemc2a0jFKcVjTs-97" target="WeGn-nemc2a0jFKcVjTs-52">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="360" y="380" as="sourcePoint" />
             <mxPoint x="460" y="280" as="targetPoint" />
